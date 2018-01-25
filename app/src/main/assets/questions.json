@@ -1,0 +1,42 @@
+{
+  "survey_properties": {
+    "intro_message": "<strong>HELLO THERE, WELCOME TO SURVEYOR.<br><br>EXPLORE THE QUESTIONNAIRE",
+    "end_message": "THANK YOU FOR YOUR PATIENCE.",
+    "skip_intro": false
+  },
+  "questions": [
+
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you think you were productive today?",
+      "description": "",
+      "required": false,
+      "random_choices": false,
+      "choices": ["Yes", "No"]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Are you a programmer?",
+      "description": "",
+      "required": false,
+      "random_choices": false,
+      "choices": ["Yes", "No"]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Did you sleep well yesterday?",
+      "description": "",
+      "required": false,
+      "random_choices": false,
+      "choices": ["Yes", "No"]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you like computer science?",
+      "description": "",
+      "required": false,
+      "random_choices": false,
+      "choices": ["Yes", "No"]
+    }
+  ]
+}

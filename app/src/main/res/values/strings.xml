@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Surveyor</string>
+    <string-array name="country_arrays">
+        <item>India</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>United States of America</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pie_chart">PieChartActivity</string>
+</resources>
